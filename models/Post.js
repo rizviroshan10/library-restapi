@@ -17,6 +17,11 @@ const postSchema = mongoose.Schema({
         type: String,
         required: true
     },
+    
+    jumlah: {
+        type: Integer,
+        required: true
+    },
     created_date: {
         type: Date,
         default: Date.now
