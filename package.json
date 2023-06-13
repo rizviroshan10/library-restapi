@@ -4,7 +4,7 @@
   "description": "rest api menggunakan express.js",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js",
+    "dev": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,7 +16,7 @@
     "express",
     "mongodb"
   ],
-  "author": "mauladi",
+  "author": "Rizvi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rizviroshan10/library-restapi/issues"
